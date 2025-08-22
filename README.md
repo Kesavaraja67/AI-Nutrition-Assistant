@@ -34,7 +34,7 @@ Get food recommendations based on weather and nutrition.
 ---
 
 ## 📷 Screenshot
-<h2 align="center">Application Screenshot</h2> <p align="center"> <img src="./images/Screenshot.png" alt="App Screenshot" width="800"/> </p>
+<h2 align="center">Application Screenshot</h2> <p align="center"> <img src="./images/screenshot.png" alt="App Screenshot" width="800"/> </p>
 
 ---
 
