@@ -1,50 +1,49 @@
-🌦️ AI-Powered Weather-Based Nutrition Assistant
+# 🌦️ AI-Powered Weather-Based Nutrition Assistant
 
-This project integrates real-time weather data with a food recommendation system to suggest healthy meals based on the user’s city, temperature, and meal time (Breakfast, Lunch, Dinner). The system fetches weather data from OpenWeather API and retrieves corresponding nutrition recommendations from a MySQL database.
+This project is an AI-driven system that recommends suitable meals based on **current weather conditions** and **meal time**.  
+It fetches live weather data using an API, processes it, and retrieves food recommendations from a MySQL database.  
+The application is built using **Streamlit** for a clean and interactive UI.
 
-✨ Features
+---
 
-Fetches live weather data based on city name.
+## ✨ Features
+- 🌍 Fetches live weather data for any city worldwide.  
+- 🍽️ Provides food recommendations for **Breakfast, Lunch, and Dinner**.  
+- 📊 Stores and retrieves food items from a MySQL database.  
+- ⚡ User-friendly Streamlit interface.  
+- 🛠️ Easy to set up and extend with more recipes.
 
-Recommends Breakfast, Lunch, and Dinner meals tailored to temperature ranges.
+---
 
-Displays nutritional values (Protein, Carbs, Fiber) along with benefits.
+## 🚀 Installation
 
-Simple and interactive Streamlit-based UI.
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/AI-Nutrition-Assistant.git
+   cd AI-Nutrition-Assistant
 
-Scalable design to support multiple cities worldwide.
+---
 
-📂 Tech Stack
+## 🎮 Usage
 
-Frontend & UI: Streamlit
+Enter a city name in the input box.
+View real-time weather conditions.
+Select a meal time (Breakfast, Lunch, Dinner).
+Get food recommendations based on weather and nutrition.
 
-Backend: Python
+---
 
-Database: MySQL (Workbench)
+## 📷 Screenshot
+<h2 align="center">Application Screenshot</h2> <p align="center"> <img src="./images/Screenshot.png" alt="App Screenshot" width="800"/> </p>
 
-API: OpenWeather API
+---
 
-🚀 How It Works
+## 🔗 Live Demo
+👉 Click here to try the app
 
-User enters a city name.
+---
 
-The app fetches weather details from the OpenWeather API.
-
-Based on the temperature range and meal time, the system queries the MySQL database.
-
-Recommended meals with nutritional values and benefits are displayed.
-
-📷 Screenshot
-
-<p align="center">
-  <img src="images/Screenshot.png" alt="App Screenshot" width="600"/>
-</p>
-
-🔗 Live Demo
-
-Click here to access the live app
- (replace # with your deployed app link when ready)
-
-👨‍💻 Author
-
+## 👨‍💻 Author
 Kesavaraja M
+
+
