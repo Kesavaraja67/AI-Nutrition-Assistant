@@ -22,7 +22,6 @@ The application is built using **Streamlit** for a clean and interactive UI.
    git clone https://github.com/yourusername/AI-Nutrition-Assistant.git
    cd AI-Nutrition-Assistant
 
----
 
 ## 🎮 Usage
 
@@ -31,7 +30,6 @@ View real-time weather conditions.
 Select a meal time (Breakfast, Lunch, Dinner).
 Get food recommendations based on weather and nutrition.
 
----
 
 ## 📷 Screenshot
 <h2 align="center">Application Screenshot</h2> <p align="center"> <img src="./images/screenshot.png" alt="App Screenshot" width="800"/> </p>
