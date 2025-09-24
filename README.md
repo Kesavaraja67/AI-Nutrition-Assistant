@@ -35,7 +35,7 @@ Get food recommendations based on weather and nutrition.
 <h2 align="center">Application Screenshot</h2> <p align="center"> <img src="./images/screenshot.png" alt="App Screenshot" width="800"/> </p>
 
 ## 🔗 Live Demo
-👉 Click here to try the app
+👉 [Click here to try the app](https://1l03wr55-8501.inc1.devtunnels.ms/)
 
 ## 👨‍💻 Author
 Kesavaraja M
